@@ -1,0 +1,169 @@
+.header{
+background: #6563DA;
+}
+
+.logo {
+	margin-left: 193px;
+
+font-family: 'Revalia';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 60px;
+
+color: #000000;
+margin: 0 193px;
+}
+
+.main{
+background: #6563DA;
+
+}
+
+
+body{
+	margin: 0;
+	background: #6563DA;
+}
+
+.container_info-block{
+	margin: 75px 167px;
+	display: flex;
+}
+
+.text-button{
+margin-left: 210px;
+}
+
+.info-text{
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+
+color: #000000;
+
+margin-bottom: 55px;
+}
+
+.info-btn{
+	background: #C75E5E;
+border-radius: 40px;
+
+width: 352px;
+height: 112px;
+border: 0px;
+
+font-weight: 500;
+font-size: 20px;
+line-height: 164.06%;
+/* or 33px */
+
+letter-spacing: 0.1em;
+
+color: #FFFFFF;
+
+}
+
+.info-btn:hover{
+	background: #813232;
+	cursor: pointer;
+}
+
+.about_title{
+	color: black;
+	font-size: 32;
+	text-align: center;
+}
+
+.wraper_about{
+	display: flex;
+
+}
+ .about_img{
+ 	margin-left: 174px;
+ }
+
+.conteainer_about{
+	margin: 0 auto;
+	max-width: 1000px;
+}
+
+.rating_full{
+	background: #C4C4C4C4;
+	height: 4px;
+}
+
+.list_score{
+	list-style: none;
+	padding: 0;
+	width: 500px;
+}
+
+
+
+.score_item{
+	padding: 0;
+}
+
+.rating_done1 {
+	background: black;
+	width: 50%;
+	height: 100%;
+}
+
+.ls_text{
+	font-size: 16px;
+	font-weight: 500;
+	
+}
+
+.rating_done2{
+	background: black;
+	width: 10%;
+	height: 100%;
+}
+
+.rating_done3 {
+	background: black;
+	width: 30%;
+	height: 100%;
+}
+
+.video{
+	background: #6563DA;
+}
+
+.video_title{
+	text-align: center;
+}
+
+.video_container{
+	max-width: 1100px;
+	margin: 0 auto;
+}
+
+.pod{
+text-align: center;
+font-family: 'Roboto';
+font-style: normal;
+
+color: white;
+}
+
+.gallery_list{
+	display: flex;
+	list-style: none;
+	padding: 0;
+	flex-wrap: wrap;
+}
+
+.gallery_item{
+	width: 50%;
+}
+
+.gallery_img{
+	width: 100%;
+}
+.gallery_img3{
+width: 100%;
+}
